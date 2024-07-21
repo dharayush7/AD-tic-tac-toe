@@ -110,7 +110,7 @@ serve -s build
 
 Go to website by this link - 
 
-[localhost:8000](localhost:3000)
+[localhost:3000](localhost:3000)
 ## 🔗 Links
 [portfolio](https://www.ayushdhar.com/)
 
